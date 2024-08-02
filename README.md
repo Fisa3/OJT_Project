@@ -4,7 +4,7 @@
 ## 👨‍💻Team
 |<img src="https://avatars.githubusercontent.com/u/65991884?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/107031994?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/86452494?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/78792358?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/74589010?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/175282913?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/127727927?v=4" width="100" height="100"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-	|류채현<br/>[@RyuChaeHyun](https://github.com/RyuChaeHyun)|박정주<br/>[@gorapang](https://github.com/gorapang)|백승지<br/>[@seungji2001](https://github.com/seungji2001)|박현우<br/>[@smartcow99](https://github.com/smartcow99)|강유완<br/>[@yuwankang](https://github.com/yuwankang)|이정욱<br/>[@jeonguk0201](https://github.com/jeonguk0201)|부준혁<br/>[@BooJunhyuk](https://github.com/BooJunhyuk)|
+|류채현<br/>[@RyuChaeHyun](https://github.com/RyuChaeHyun)|박정주<br/>[@gorapang](https://github.com/gorapang)|백승지<br/>[@seungji2001](https://github.com/seungji2001)|박현우<br/>[@smartcow99](https://github.com/smartcow99)|강유완<br/>[@yuwankang](https://github.com/yuwankang)|이정욱<br/>[@jeonguk0201](https://github.com/jeonguk0201)|부준혁<br/>[@BooJunhyuk](https://github.com/BooJunhyuk)|
 
 
 ## 🖋 문제 1: 카드 결제 시스템 엔티티 모델링
