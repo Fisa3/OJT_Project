@@ -55,28 +55,28 @@ SELECT * from emp e , dept d where ename = 'SMITH' AND e.deptno = d.deptno;
 	    EntityManager em = DBUtil.getEntityManager();
 	    try {
 	    	
-	        Emp employee = em.find(Emp.class, 7839L); //1 select
+	        Emp employee = em.find(Emp.class, 7839L); //1 
 	        
 	        System.out.println(1);
 	        
-	        System.out.println(employee.getENAME()); //KING
+	        System.out.println(employee.getENAME()); 
 	        
-	        employee = em.find(Emp.class, 7839L); //2 no select 
+	        employee = em.find(Emp.class, 7839L); //2 
 	        
 	        System.out.println(2);
 	        
             TypedQuery<Emp> query = em.createQuery("SELECT e FROM Emp e WHERE e.ENAME = :name", Emp.class);
             query.setParameter("name", "KING");
-            List<Emp> employees = query.getResultList(); //3 select
+            List<Emp> employees = query.getResultList(); //3 
             
             System.out.println(employees.get(0).getENAME()); // 4
             
             
-            employee = em.find(Emp.class, 7839L); //5 no select 
+            employee = em.find(Emp.class, 7839L); //5 
             System.out.println(employee.getENAME()); // 6
 	        
 
-	        System.out.println(employee.getDEPTNO().getLOC()); //7 select
+	        System.out.println(employee.getDEPTNO().getLOC()); //7 
 	        
 	    } finally {
 	        if (em != null) {
